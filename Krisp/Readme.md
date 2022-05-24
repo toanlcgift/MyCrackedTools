@@ -1,0 +1,2 @@
+- Version 1.37.7.0
+- Change Target: Krisp.UI.ViewModels.OnTimerElapsed
